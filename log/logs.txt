@@ -1,0 +1,1318 @@
+Sep 21, 2015 2:21:48 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-21-14-21
+Sep 21, 2015 2:21:49 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 21, 2015 2:21:53 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 18-09-2015-03-57-25-9167930.jpg
+Sep 21, 2015 2:21:55 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image D:\2015-09-18_03_57_21/18-09-2015-03-57-25-9167930.jpg
+Sep 21, 2015 2:22:21 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-21-14-22
+Sep 21, 2015 2:22:21 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 21, 2015 2:22:24 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 18-09-2015-03-57-25-9167930.jpg
+Sep 21, 2015 2:22:25 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image D:\2015-09-18_03_57_21/18-09-2015-03-57-25-9167930.jpg
+Sep 21, 2015 2:41:58 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-21-14-41
+Sep 21, 2015 2:41:58 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 21, 2015 2:42:56 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-21-14-42
+Sep 21, 2015 2:42:56 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 21, 2015 2:43:02 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 21, 2015 2:43:03 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 21, 2015 2:43:16 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 2:43:29 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 21, 2015 2:51:44 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-21-14-51
+Sep 21, 2015 2:51:45 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 21, 2015 2:52:01 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 21, 2015 2:52:03 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 21, 2015 2:53:07 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-21-14-53
+Sep 21, 2015 2:53:07 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 21, 2015 2:53:11 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 21, 2015 2:53:12 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 21, 2015 3:30:37 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-21-15-30
+Sep 21, 2015 3:30:37 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 21, 2015 3:30:40 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 21, 2015 3:30:41 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 21, 2015 3:30:52 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 3:30:59 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 21, 2015 3:35:46 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-21-15-35
+Sep 21, 2015 3:35:46 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 21, 2015 3:35:51 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 21, 2015 3:35:52 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 21, 2015 3:36:00 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 3:36:06 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 21, 2015 4:43:26 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-21-16-43
+Sep 21, 2015 4:43:26 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 21, 2015 4:43:31 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 21, 2015 4:43:34 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 21, 2015 4:43:53 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-21-16-43
+Sep 21, 2015 4:43:53 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 21, 2015 4:44:14 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-21-16-44
+Sep 21, 2015 4:44:14 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 21, 2015 4:44:19 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_164117_0001_0001.jpg
+Sep 21, 2015 4:44:20 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0001.jpg
+Sep 21, 2015 4:44:47 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:44:56 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 21, 2015 4:45:08 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_164117_0001_0002.jpg
+Sep 21, 2015 4:45:08 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0002.jpg
+Sep 21, 2015 4:45:08 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0002.jpg
+Sep 21, 2015 4:45:13 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:13 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:18 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 21, 2015 4:45:20 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_164117_0001_0003.jpg
+Sep 21, 2015 4:45:20 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0003.jpg
+Sep 21, 2015 4:45:20 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0003.jpg
+Sep 21, 2015 4:45:20 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0003.jpg
+Sep 21, 2015 4:45:26 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:26 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:26 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:32 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 21, 2015 4:45:34 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_164117_0001_0004.jpg
+Sep 21, 2015 4:45:34 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0004.jpg
+Sep 21, 2015 4:45:34 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0004.jpg
+Sep 21, 2015 4:45:34 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0004.jpg
+Sep 21, 2015 4:45:34 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0004.jpg
+Sep 21, 2015 4:45:36 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_164117_0001_0005.jpg
+Sep 21, 2015 4:45:36 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0005.jpg
+Sep 21, 2015 4:45:36 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0005.jpg
+Sep 21, 2015 4:45:36 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0005.jpg
+Sep 21, 2015 4:45:36 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0005.jpg
+Sep 21, 2015 4:45:36 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0005.jpg
+Sep 21, 2015 4:45:41 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:41 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:41 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:41 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:41 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:47 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 21, 2015 4:45:49 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_164117_0001_0006.jpg
+Sep 21, 2015 4:45:49 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0006.jpg
+Sep 21, 2015 4:45:49 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0006.jpg
+Sep 21, 2015 4:45:49 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0006.jpg
+Sep 21, 2015 4:45:49 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0006.jpg
+Sep 21, 2015 4:45:49 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0006.jpg
+Sep 21, 2015 4:45:49 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0006.jpg
+Sep 21, 2015 4:45:52 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_164117_0001_0007.jpg
+Sep 21, 2015 4:45:52 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0007.jpg
+Sep 21, 2015 4:45:52 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0007.jpg
+Sep 21, 2015 4:45:52 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0007.jpg
+Sep 21, 2015 4:45:52 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0007.jpg
+Sep 21, 2015 4:45:52 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0007.jpg
+Sep 21, 2015 4:45:52 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0007.jpg
+Sep 21, 2015 4:45:52 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0007.jpg
+Sep 21, 2015 4:45:53 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_164117_0001_0008.jpg
+Sep 21, 2015 4:45:53 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0008.jpg
+Sep 21, 2015 4:45:53 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0008.jpg
+Sep 21, 2015 4:45:53 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0008.jpg
+Sep 21, 2015 4:45:53 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0008.jpg
+Sep 21, 2015 4:45:53 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0008.jpg
+Sep 21, 2015 4:45:53 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0008.jpg
+Sep 21, 2015 4:45:53 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0008.jpg
+Sep 21, 2015 4:45:53 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0008.jpg
+Sep 21, 2015 4:45:58 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:58 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:58 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:58 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:58 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:58 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:58 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:45:58 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 21, 2015 4:46:02 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 11:41:31 AM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-11-41
+Sep 22, 2015 11:41:33 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 11:41:45 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_164117_0001_0001.jpg
+Sep 22, 2015 11:41:51 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-hp_scanning-utitlity/scan_2015-09-21_164117_0001_0001.jpg
+Sep 22, 2015 11:42:04 AM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 11:42:38 AM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-11-42
+Sep 22, 2015 11:42:38 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 11:42:47 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 11:42:48 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 11:42:55 AM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 11:43:01 AM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 11:45:55 AM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-11-45
+Sep 22, 2015 11:45:56 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 11:46:05 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 11:46:06 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 11:46:14 AM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 11:47:20 AM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-11-47
+Sep 22, 2015 11:47:21 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 11:47:24 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 11:47:25 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 11:47:32 AM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 11:52:30 AM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-11-52
+Sep 22, 2015 11:52:30 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 11:52:32 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 11:52:33 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 11:52:40 AM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 11:52:48 AM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 12:10:19 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-12-10
+Sep 22, 2015 12:10:19 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 12:10:24 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 12:10:25 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 12:10:33 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 12:10:40 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 12:20:11 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-12-20
+Sep 22, 2015 12:20:11 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 12:20:15 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 12:20:16 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 12:20:23 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 12:20:30 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 12:29:38 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-12-29
+Sep 22, 2015 12:29:38 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 12:29:43 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 12:29:44 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 12:29:52 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 12:29:58 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 1:52:47 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-13-52
+Sep 22, 2015 1:52:47 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 1:52:55 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 1:52:58 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 1:53:10 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 1:53:30 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 1:54:21 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-13-54
+Sep 22, 2015 1:54:21 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 1:54:48 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 1:54:49 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 1:54:58 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 1:55:08 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 1:56:51 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-13-56
+Sep 22, 2015 1:56:51 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 1:56:56 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 1:56:57 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 1:57:06 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 1:57:22 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 1:58:42 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-13-58
+Sep 22, 2015 1:58:42 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 1:59:01 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 1:59:02 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 1:59:11 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 1:59:29 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 2:02:12 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-14-02
+Sep 22, 2015 2:02:12 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 2:02:19 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:02:20 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:02:28 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 2:02:34 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 2:09:21 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-14-09
+Sep 22, 2015 2:09:21 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 2:09:27 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:09:28 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:09:37 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 2:09:45 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 2:10:33 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-14-10
+Sep 22, 2015 2:10:33 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 2:10:37 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:10:38 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:10:46 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 2:10:52 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 2:11:57 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-14-11
+Sep 22, 2015 2:11:57 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 2:12:09 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:12:10 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:12:18 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 2:12:24 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 2:17:11 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-14-17
+Sep 22, 2015 2:17:11 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 2:17:15 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:17:16 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:17:24 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 2:17:30 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 2:20:37 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-14-20
+Sep 22, 2015 2:20:37 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 2:20:40 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:20:41 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:20:49 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 2:20:53 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 2:21:59 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-14-21
+Sep 22, 2015 2:21:59 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 2:22:23 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:22:24 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:22:32 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 2:22:37 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 22, 2015 2:23:01 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-22-14-23
+Sep 22, 2015 2:23:02 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 22, 2015 2:23:15 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:23:16 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 22, 2015 2:23:24 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 22, 2015 2:23:29 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 29, 2015 3:47:36 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-29-15-47
+Sep 29, 2015 3:47:36 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 29, 2015 3:47:41 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:47:44 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:47:58 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 29, 2015 3:48:04 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 29, 2015 3:51:29 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-29-15-51
+Sep 29, 2015 3:51:29 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 29, 2015 3:51:32 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:51:33 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:51:42 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 29, 2015 3:52:18 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-29-15-52
+Sep 29, 2015 3:52:18 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 29, 2015 3:52:21 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:52:21 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:52:31 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 29, 2015 3:52:38 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 29, 2015 3:54:03 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-29-15-54
+Sep 29, 2015 3:54:03 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 29, 2015 3:54:06 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:54:07 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:54:16 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 29, 2015 3:54:23 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 29, 2015 3:56:06 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-29-15-56
+Sep 29, 2015 3:56:06 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 29, 2015 3:56:08 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:56:09 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:56:18 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 29, 2015 3:56:25 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 29, 2015 3:57:40 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-29-15-57
+Sep 29, 2015 3:57:40 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 29, 2015 3:57:42 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:57:42 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:57:51 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 29, 2015 3:58:10 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 29, 2015 3:59:29 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-29-15-59
+Sep 29, 2015 3:59:29 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 29, 2015 3:59:46 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-29-15-59
+Sep 29, 2015 3:59:46 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 29, 2015 3:59:48 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:59:49 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 3:59:58 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 29, 2015 4:00:06 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 29, 2015 4:08:22 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-29-16-08
+Sep 29, 2015 4:08:22 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 29, 2015 4:08:24 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 4:08:25 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 4:08:34 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 29, 2015 4:08:44 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 29, 2015 4:09:23 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-29-16-09
+Sep 29, 2015 4:09:23 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 29, 2015 4:09:25 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 4:09:26 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 4:09:38 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 29, 2015 4:09:46 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 29, 2015 4:11:01 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-29-16-11
+Sep 29, 2015 4:11:01 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 29, 2015 4:11:03 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 4:11:04 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 29, 2015 4:11:12 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 29, 2015 4:11:18 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 3:03:31 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-15-03
+Sep 30, 2015 3:03:33 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 3:04:10 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 3:04:12 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 3:04:25 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 3:04:30 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 3:04:32 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-15-04
+Sep 30, 2015 3:04:32 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 4:07:47 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-16-07
+Sep 30, 2015 4:07:50 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 4:09:33 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:09:37 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:09:53 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 4:09:58 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 4:12:45 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-16-12
+Sep 30, 2015 4:12:45 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 4:12:47 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:12:48 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:12:57 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 4:13:02 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 4:30:14 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-16-30
+Sep 30, 2015 4:30:14 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 4:30:16 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:30:17 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:30:25 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 4:30:31 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 4:49:42 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-16-49
+Sep 30, 2015 4:49:42 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 4:49:44 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:49:45 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:49:54 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 4:50:00 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 4:50:03 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-16-50
+Sep 30, 2015 4:50:03 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 4:50:56 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-16-50
+Sep 30, 2015 4:50:57 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 4:51:00 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:51:00 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:51:08 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 4:51:17 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 4:52:26 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-16-52
+Sep 30, 2015 4:52:27 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 4:52:28 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:52:30 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:52:38 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 4:52:44 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 4:56:30 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-16-56
+Sep 30, 2015 4:56:30 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 4:56:32 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:56:33 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 4:56:40 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 4:56:46 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 5:03:51 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-03
+Sep 30, 2015 5:03:51 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 5:03:53 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:03:54 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:04:02 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 5:04:09 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 5:06:06 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-06
+Sep 30, 2015 5:06:06 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 5:06:11 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:06:13 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:06:22 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 5:06:26 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 5:07:20 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-07
+Sep 30, 2015 5:07:20 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 5:07:21 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:07:22 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:07:30 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 5:07:35 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 5:12:28 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-12
+Sep 30, 2015 5:12:28 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 5:12:30 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:12:30 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:12:39 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 5:12:46 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 5:19:00 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-19
+Sep 30, 2015 5:19:00 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 5:19:05 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:19:06 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:19:13 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 5:19:20 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 5:23:34 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-23
+Sep 30, 2015 5:23:34 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 5:23:36 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:23:37 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:23:48 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 5:23:56 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 5:30:12 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-30
+Sep 30, 2015 5:30:12 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 5:30:27 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:30:27 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Sep 30, 2015 5:30:35 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Sep 30, 2015 5:30:41 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Sep 30, 2015 5:39:22 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-39
+Sep 30, 2015 5:39:22 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 5:41:42 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-41
+Sep 30, 2015 5:41:42 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 01, 2015 5:02:01 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-01-17-02
+Oct 01, 2015 5:02:01 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 01, 2015 5:02:07 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:02:11 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:09:20 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-01-17-09
+Oct 01, 2015 5:09:20 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 01, 2015 5:09:23 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:09:24 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:16:06 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-01-17-16
+Oct 01, 2015 5:16:07 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 01, 2015 5:16:09 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:16:11 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:18:40 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-01-17-18
+Oct 01, 2015 5:18:40 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 01, 2015 5:18:45 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:18:47 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:19:59 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-01-17-19
+Oct 01, 2015 5:20:00 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 01, 2015 5:20:02 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:20:03 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:20:40 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-01-17-20
+Oct 01, 2015 5:20:40 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 01, 2015 5:20:42 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:20:44 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:22:01 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-01-17-22
+Oct 01, 2015 5:22:01 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 01, 2015 5:22:02 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:22:04 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:23:26 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-01-17-23
+Oct 01, 2015 5:23:26 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 01, 2015 5:23:28 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 01, 2015 5:23:30 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 06, 2015 3:36:30 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-06-15-36
+Oct 06, 2015 3:36:33 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 06, 2015 3:37:14 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-06-15-37
+Oct 06, 2015 3:37:15 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 06, 2015 3:37:24 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-06-15-37
+Oct 06, 2015 3:37:25 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 12, 2015 11:02:22 AM com.omr.app.Omr main
+INFO: Session Started:2015-10-12-11-02
+Oct 12, 2015 11:02:25 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 12, 2015 11:02:32 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 12, 2015 11:02:35 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 12, 2015 11:05:59 AM com.omr.app.Omr main
+INFO: Session Started:2015-10-12-11-05
+Oct 12, 2015 11:05:59 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 12, 2015 11:08:54 AM com.omr.app.Omr main
+INFO: Session Started:2015-10-12-11-08
+Oct 12, 2015 11:08:55 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 12, 2015 12:04:54 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-12-12-04
+Oct 12, 2015 12:04:54 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 12, 2015 12:04:58 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 12, 2015 12:04:59 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 12, 2015 12:05:52 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-12-12-05
+Oct 12, 2015 12:05:52 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 12, 2015 12:05:54 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 12, 2015 12:05:55 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 12, 2015 12:06:04 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Oct 12, 2015 12:06:16 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Oct 12, 2015 12:13:40 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-12-12-13
+Oct 12, 2015 12:13:41 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 12, 2015 12:13:43 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 12, 2015 12:13:44 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 12, 2015 12:13:53 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Oct 12, 2015 12:14:03 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Oct 13, 2015 3:23:21 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-13-15-23
+Oct 13, 2015 3:23:24 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 13, 2015 3:23:36 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 13-10-2015-03-18-46-6434589.jpg
+Oct 13, 2015 3:23:43 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/13-10-2015-03-18-46-6434589.jpg
+Oct 13, 2015 3:24:11 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Oct 13, 2015 3:24:25 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Oct 13, 2015 3:24:26 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 13-10-2015-03-18-51-4487338.jpg
+Oct 13, 2015 3:24:26 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/13-10-2015-03-18-51-4487338.jpg
+Oct 13, 2015 3:24:26 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/13-10-2015-03-18-51-4487338.jpg
+Oct 13, 2015 3:37:35 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-13-15-37
+Oct 13, 2015 3:37:35 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 13, 2015 3:37:41 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.png
+Oct 13, 2015 3:37:44 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.png
+Oct 13, 2015 4:14:14 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-13-16-14
+Oct 13, 2015 4:14:15 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 13, 2015 4:14:18 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 13, 2015 4:14:19 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 12:23:12 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-12-23
+Oct 15, 2015 12:23:12 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 12:23:17 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 12:23:20 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 12:43:36 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-12-43
+Oct 15, 2015 12:43:37 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 12:43:40 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 12:43:41 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 12:54:59 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-12-54
+Oct 15, 2015 12:54:59 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 12:55:02 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 12:55:03 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 2:59:10 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-14-59
+Oct 15, 2015 2:59:10 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 2:59:16 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 2:59:16 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 3:14:45 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-15-14
+Oct 15, 2015 3:14:46 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 3:14:49 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 3:14:50 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 3:37:22 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-15-37
+Oct 15, 2015 3:37:22 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 3:37:25 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 3:37:26 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 3:41:28 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-15-41
+Oct 15, 2015 3:41:29 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 3:41:31 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 3:41:32 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 3:47:54 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-15-47
+Oct 15, 2015 3:47:54 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 3:47:56 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 3:47:57 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 4:05:15 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-16-05
+Oct 15, 2015 4:05:15 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 4:05:44 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-16-05
+Oct 15, 2015 4:05:45 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 4:05:48 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 4:05:49 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 4:10:33 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-16-10
+Oct 15, 2015 4:10:34 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 4:10:37 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file blob.jpg
+Oct 15, 2015 4:10:38 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/blob.jpg
+Oct 15, 2015 4:11:17 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-16-11
+Oct 15, 2015 4:11:17 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 4:11:19 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file blob.jpg
+Oct 15, 2015 4:11:20 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/blob.jpg
+Oct 15, 2015 4:15:26 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-16-15
+Oct 15, 2015 4:15:27 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 4:15:29 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file blob.jpg
+Oct 15, 2015 4:15:30 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/blob.jpg
+Oct 15, 2015 4:15:47 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-16-15
+Oct 15, 2015 4:15:47 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 4:15:49 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file blob.jpg
+Oct 15, 2015 4:15:50 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/blob.jpg
+Oct 15, 2015 4:16:15 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-16-16
+Oct 15, 2015 4:16:15 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 4:16:17 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file blob.jpg
+Oct 15, 2015 4:16:18 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/blob.jpg
+Oct 15, 2015 4:17:55 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-16-17
+Oct 15, 2015 4:17:55 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 4:18:01 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file blob.jpg
+Oct 15, 2015 4:18:02 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/blob.jpg
+Oct 15, 2015 4:19:54 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-16-19
+Oct 15, 2015 4:19:55 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 4:19:57 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file blob.jpg
+Oct 15, 2015 4:19:58 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/blob.jpg
+Oct 15, 2015 4:20:55 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-16-20
+Oct 15, 2015 4:20:56 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 4:20:58 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file blob.jpg
+Oct 15, 2015 4:20:59 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/blob.jpg
+Oct 15, 2015 5:35:20 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-17-35
+Oct 15, 2015 5:35:20 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 5:35:30 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file blob.jpg
+Oct 15, 2015 5:35:33 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/blob.jpg
+Oct 15, 2015 5:38:22 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-17-38
+Oct 15, 2015 5:38:23 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 5:38:28 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file blob.jpg
+Oct 15, 2015 5:38:29 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/blob.jpg
+Oct 15, 2015 5:41:16 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-17-41
+Oct 15, 2015 5:41:16 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 5:41:19 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 2015-10-15-17-38-37.jpg
+Oct 15, 2015 5:41:20 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/2015-10-15-17-38-37.jpg
+Oct 15, 2015 5:44:05 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-17-44
+Oct 15, 2015 5:44:05 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 5:44:08 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 2015-10-15-17-41-28_2015-10-15-17-38-37.jpg
+Oct 15, 2015 5:44:09 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/2015-10-15-17-41-28_2015-10-15-17-38-37.jpg
+Oct 15, 2015 5:59:48 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-15-17-59
+Oct 15, 2015 5:59:48 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 15, 2015 5:59:50 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 15, 2015 5:59:51 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 10:49:51 AM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-10-49
+Oct 16, 2015 10:49:52 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 10:49:55 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 10:49:57 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 10:50:05 AM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Oct 16, 2015 10:50:12 AM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Oct 16, 2015 11:07:49 AM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-11-07
+Oct 16, 2015 11:07:49 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 11:07:52 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:07:53 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:08:02 AM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Oct 16, 2015 11:08:11 AM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Oct 16, 2015 11:20:09 AM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-11-20
+Oct 16, 2015 11:20:09 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 11:20:12 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:20:12 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:21:26 AM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-11-21
+Oct 16, 2015 11:21:26 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 11:21:29 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:21:29 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:23:22 AM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-11-23
+Oct 16, 2015 11:23:23 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 11:23:25 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:23:26 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:23:35 AM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Oct 16, 2015 11:23:45 AM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Oct 16, 2015 11:31:30 AM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-11-31
+Oct 16, 2015 11:31:30 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 11:31:33 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:31:34 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:31:42 AM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Oct 16, 2015 11:31:47 AM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Oct 16, 2015 11:34:29 AM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-11-34
+Oct 16, 2015 11:34:29 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 11:34:31 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:34:32 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:47:46 AM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-11-47
+Oct 16, 2015 11:47:46 AM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 11:47:53 AM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:47:54 AM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 11:48:02 AM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Oct 16, 2015 11:48:08 AM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Oct 16, 2015 2:32:29 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-14-32
+Oct 16, 2015 2:32:29 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 2:32:32 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 2:32:34 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 2:32:47 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Oct 16, 2015 2:32:52 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Oct 16, 2015 2:45:55 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-14-45
+Oct 16, 2015 2:45:56 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 2:45:58 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 16-10-2015-02-43-01-3143282.jpg
+Oct 16, 2015 2:45:59 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-43-01-3143282.jpg
+Oct 16, 2015 2:46:07 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Oct 16, 2015 2:46:13 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready
+Oct 16, 2015 2:47:35 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-14-47
+Oct 16, 2015 2:47:35 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 2:47:39 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 16-10-2015-02-47-05-4542922.jpg
+Oct 16, 2015 2:47:40 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-47-05-4542922.jpg
+Oct 16, 2015 2:47:45 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 16-10-2015-02-47-09-8245422.jpg
+Oct 16, 2015 2:47:45 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-47-09-8245422.jpg
+Oct 16, 2015 2:47:45 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-47-09-8245422.jpg
+Oct 16, 2015 2:55:51 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-14-55
+Oct 16, 2015 2:55:51 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 2:55:53 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 16-10-2015-02-47-05-4542922.jpg
+Oct 16, 2015 2:55:54 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-47-05-4542922.jpg
+Oct 16, 2015 2:55:59 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 16-10-2015-02-47-09-8245422.jpg
+Oct 16, 2015 2:55:59 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-47-09-8245422.jpg
+Oct 16, 2015 2:55:59 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-47-09-8245422.jpg
+Oct 16, 2015 2:59:14 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-14-59
+Oct 16, 2015 2:59:14 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 2:59:17 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 16-10-2015-02-47-05-4542922.jpg
+Oct 16, 2015 2:59:17 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-47-05-4542922.jpg
+Oct 16, 2015 2:59:22 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 16-10-2015-02-47-09-8245422.jpg
+Oct 16, 2015 2:59:22 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-47-09-8245422.jpg
+Oct 16, 2015 2:59:22 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-47-09-8245422.jpg
+Oct 16, 2015 3:15:35 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-15-15
+Oct 16, 2015 3:15:35 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 3:15:37 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 3:15:38 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 16, 2015 3:23:58 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-15-23
+Oct 16, 2015 3:23:58 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 3:24:01 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 16-10-2015-02-47-05-4542922.jpg
+Oct 16, 2015 3:24:01 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-47-05-4542922.jpg
+Oct 16, 2015 3:24:05 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file 16-10-2015-02-47-09-8245422.jpg
+Oct 16, 2015 3:24:05 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-47-09-8245422.jpg
+Oct 16, 2015 3:24:05 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/16-10-2015-02-47-09-8245422.jpg
+Oct 16, 2015 3:26:02 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-16-15-26
+Oct 16, 2015 3:26:02 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 16, 2015 3:26:06 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file new_omr-ver7.png
+Oct 16, 2015 3:26:07 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/new_omr-ver7.png
+Oct 19, 2015 12:09:36 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-19-12-09
+Oct 19, 2015 12:09:39 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 19, 2015 12:13:00 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-19-12-13
+Oct 19, 2015 12:13:00 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 19, 2015 12:13:07 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 19, 2015 12:13:10 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 19, 2015 12:13:20 PM com.omr.app.Omr main
+INFO: Session Started:2015-10-19-12-13
+Oct 19, 2015 12:13:20 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Oct 19, 2015 12:13:22 PM com.omr.app.OmrController$2 doInBackground
+INFO: Selected file scan_2015-09-21_144120_0001.jpg
+Oct 19, 2015 12:13:23 PM com.omr.app.OmrModel setpaths
+INFO: Selected Image C:\Users\dell\Documents\TeleTaleem\edms-test-pages/scan_2015-09-21_144120_0001.jpg
+Oct 19, 2015 12:13:36 PM com.omr.app.OmrModel setQuestions
+INFO: Actual Questions in Quiz are 62
+Oct 19, 2015 12:13:42 PM com.omr.app.OmrController genrslt
+INFO: Subtest ready

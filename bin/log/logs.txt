@@ -1,0 +1,16 @@
+Sep 30, 2015 5:25:35 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-25
+Sep 30, 2015 5:25:37 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 5:26:11 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-26
+Sep 30, 2015 5:26:11 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 5:27:12 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-27
+Sep 30, 2015 5:27:13 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
+Sep 30, 2015 5:28:07 PM com.omr.app.Omr main
+INFO: Session Started:2015-09-30-17-28
+Sep 30, 2015 5:28:08 PM com.omr.app.OmrController <init>
+INFO: Initializing Controller
